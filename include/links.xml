@@ -1,0 +1,23 @@
+<pages>
+	<link>
+		<title>Product</title>
+		<url>product.php</url>
+	</link>
+	<link>
+		<title>Partner</title>
+		<url>partner.php</url>
+	</link>
+	<link>
+		<title>Services</title>
+		<url>services.php</url>
+	</link>
+	<link>
+		<title>Projects</title>
+		<url>projects.php</url>
+	</link>
+	<link>
+		<title>Contact</title>
+		<url>contact.php</url>
+	</link>
+	
+</pages>
